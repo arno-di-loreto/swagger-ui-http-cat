@@ -3,11 +3,12 @@
   margin: 20px 0 0 0;
   padding-top: 5px;
   padding-bottom: 5px;
-  color: white;
+  color: #E3E5E6;
   text-align: center;
   width: 100%;
   font-family: "Droid Sans", sans-serif;
 }
 #swaggercat-footer a {
   text-decoration: none;
+  color: white;
 }
